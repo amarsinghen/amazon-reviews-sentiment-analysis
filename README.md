@@ -1,5 +1,5 @@
-# amazon-reviews-sentiment-analysis
-amazon-reviews-sentiment-analysis-kaggle
+# amazon-reviews-sentiment-analysis using NLP
+amazon-reviews-sentiment-analysis
 
 Please see the jupyter notebooks. They are very self-explanatory.
 
